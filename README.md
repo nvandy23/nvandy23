@@ -10,6 +10,14 @@ I'm currently learning the newest technologies in the industy. You can follow my
 HTML5
 CSS 
 Javascript
+EJS 
+Express
+Node.js
+MongoDB
+React
+Python
+Django
+Rest API
 
 ## Recent projects:
 https://nvandy23.github.io/P1-Memory-Matcher-game/
