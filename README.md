@@ -20,12 +20,8 @@ Django
 Rest API
 
 ## Recent projects:
-https://nvandy23.github.io/P1-Memory-Matcher-game/
+[Spooky Memory Match](https://nvandy23.github.io/P1-Memory-Matcher-game/)
 
-## Technologies I'm currently learning:
-Node Js.
-Express
-MongoDb
 
 ## Hobbies:
 Kayaking, Running, Reading, and watching sports.
@@ -34,4 +30,4 @@ Kayaking, Running, Reading, and watching sports.
 Welcome to Wrexham. It's so good! 
 
 ## Random fun fact of the month 
-According to a 2017 survey, "whatever" tops the list of words Americans find most annoying for the ninth year in a row.
+Did you know that April 26th is celebrated as "Alien Day" by fans of the "Alien" movie franchise? The date is a reference to the planet LV-426, where the original alien eggs were discovered in the first film. Fans around the world use this day to celebrate all things related to the iconic sci-fi series created by Ridley Scott.
