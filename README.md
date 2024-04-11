@@ -7,17 +7,17 @@ Welcome to my profile! Feel free to stay awhile! I am a recent graduate of the s
 I'm currently learning the newest technologies in the industy. You can follow my journey down below! 
 
 ## Languages and frameworks I have recently learned:
-HTML5
-CSS 
-Javascript
-EJS 
-Express
-Node.js
-MongoDB
-React
-Python
-Django
-Rest API
+- HTML5
+- CSS 
+- Javascript
+- EJS 
+- Express
+- Node.js
+- MongoDB
+- React
+- Python
+- Django
+- Rest API
 
 ## Recent projects:
 - [Spooky Memory Match](https://nvandy23.github.io/P1-Memory-Matcher-game/)
