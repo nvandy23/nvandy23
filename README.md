@@ -22,8 +22,8 @@ I'm currently learning the newest technologies in the industy. You can follow my
 ## Recent projects:
 -  Spooky Memory Match: [Github Repo](https://nvandy23.github.io/P1-Memory-Matcher-game/) | [Site](https://nvandy23.github.io/P1-Memory-Matcher-game/)
 -  BeatBuddy: [Github Repo](https://github.com/connorgunter/music-playlist-app) | [Site](https://beatbuddy-7a9e4cc3fd5d.herokuapp.com/)
--  Allstar-analytics: [Allstar-analytics](https://github.com/nvandy23/Allstar-analytics) | [Site](https://tiny-faun-82bd85.netlify.app/)
--  StreamSeek: [StreamSeek](https://github.com/nvandy23/StreamSeek-Capstone-Frontend) | [Site](https://stream-seek-capstone-frontend-pfpu-l603o6n9d.vercel.app/)
+-  Allstar-analytics: [Github Repo](https://github.com/nvandy23/Allstar-analytics) | [Site](https://tiny-faun-82bd85.netlify.app/)
+-  StreamSeek: [Github Repo](https://github.com/nvandy23/StreamSeek-Capstone-Frontend) | [Site](https://stream-seek-capstone-frontend-pfpu-l603o6n9d.vercel.app/)
 
 
 ## Hobbies:
