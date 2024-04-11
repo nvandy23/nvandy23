@@ -20,8 +20,10 @@ Django
 Rest API
 
 ## Recent projects:
-[Spooky Memory Match](https://nvandy23.github.io/P1-Memory-Matcher-game/)
-[Beatbuddy](https://github.com/connorgunter/music-playlist-app)
+- [Spooky Memory Match](https://nvandy23.github.io/P1-Memory-Matcher-game/)
+- [Beatbuddy](https://github.com/connorgunter/music-playlist-app)
+- [Allstar-analytics] (https://github.com/nvandy23/Allstar-analytics)
+- [StreamSeek](https://github.com/nvandy23/StreamSeek-Capstone-Frontend)
 
 
 ## Hobbies:
