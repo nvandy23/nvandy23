@@ -3,6 +3,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nvandy23&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![Your stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
 Welcome to my profile! Feel free to stay awhile! I am a recent graduate of the software engineering immersive course through General Assembly.
 I'm currently learning the newest technologies in the industy. You can follow my journey down below! 
 
