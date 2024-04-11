@@ -20,7 +20,7 @@ I'm currently learning the newest technologies in the industy. You can follow my
 - Rest API
 
 ## Recent projects:
--  Spooky Memory Match: [Github Repo](https://nvandy23.github.io/P1-Memory-Matcher-game/) | [Site]()
+-  Spooky Memory Match: [Github Repo](https://nvandy23.github.io/P1-Memory-Matcher-game/) | [Site](https://nvandy23.github.io/P1-Memory-Matcher-game/)
 -  BeatBuddy: [Github Repo](https://github.com/connorgunter/music-playlist-app) | [Site] ()
 -  Allstar-analytics: [Allstar-analytics](https://github.com/nvandy23/Allstar-analytics) | [Site] ()
 -  StreamSeek: [StreamSeek](https://github.com/nvandy23/StreamSeek-Capstone-Frontend) | [Site] ()
