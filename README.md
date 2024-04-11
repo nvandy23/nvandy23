@@ -1,8 +1,6 @@
 
 ### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nvandy23&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ![Your stats](https://github-readme-stats.vercel.app/api?username=nvandy23&show_icons=true&theme=radical)
 
 
