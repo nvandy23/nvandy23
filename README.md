@@ -6,7 +6,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=nvandy23
 Welcome to my profile! Feel free to stay awhile! I'm currently enrolled in a software engineering immersive course through General Assembly.
 I'm currently learning the newest technologies in the industy. You can follow my journey down below! 
 
-## Technologies I have recently learned:
+## Languages and frameworks I have recently learned:
 HTML5
 CSS 
 Javascript
