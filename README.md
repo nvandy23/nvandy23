@@ -1,5 +1,5 @@
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nvandy23&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -21,6 +21,7 @@ Rest API
 
 ## Recent projects:
 [Spooky Memory Match](https://nvandy23.github.io/P1-Memory-Matcher-game/)
+[Beatbuddy](https://github.com/connorgunter/music-playlist-app)
 
 
 ## Hobbies:
