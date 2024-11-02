@@ -34,4 +34,4 @@ Kayaking, Running, Reading, and watching sports.
 Welcome to Wrexham. It's so good! 
 
 ## Random fun fact of the month 
-Did you know that April 26th is celebrated as "Alien Day" by fans of the "Alien" movie franchise? The date is a reference to the planet LV-426, where the original alien eggs were discovered in the first film. Fans around the world use this day to celebrate all things related to the iconic sci-fi series created by Ridley Scott.
+Topaz is the traditional birthstone for November. The ancient Greeks believed that topaz could make people invisible.
