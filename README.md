@@ -23,9 +23,10 @@ I'm currently learning the newest technologies in the industy. You can follow my
 
 
 ## Currently I'm learning:
-- C# 
-- .NET
-- Java
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
 
 ## Recent projects:
 -  Spooky Memory Match: [Github Repo](https://nvandy23.github.io/P1-Memory-Matcher-game/) | [Site](https://github.com/nvandy23/P1-Memory-Matcher-game)
