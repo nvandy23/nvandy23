@@ -7,18 +7,20 @@
 Welcome to my profile! Feel free to stay awhile! I am a recent graduate of the software engineering immersive course through General Assembly.
 I'm currently learning the newest technologies in the industy. You can follow my journey down below! 
 
-## Languages and frameworks I have recently learned:
-- HTML5
-- CSS 
-- Javascript
-- EJS 
-- Express
-- Node.js
-- MongoDB
-- React
-- Python
-- Django
-- Rest API
+## Languages and Frameworks
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-%2300C7B7.svg?style=flat&logo=ejs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-%23E85C44.svg?style=flat&logo=api&logoColor=white)
+
 
 ## Currently I'm learning:
 - C# 
