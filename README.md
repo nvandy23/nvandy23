@@ -20,6 +20,11 @@ I'm currently learning the newest technologies in the industy. You can follow my
 - Django
 - Rest API
 
+## Currently I'm learning:
+- C# 
+- .NET
+- Java
+
 ## Recent projects:
 -  Spooky Memory Match: [Github Repo](https://nvandy23.github.io/P1-Memory-Matcher-game/) | [Site](https://github.com/nvandy23/P1-Memory-Matcher-game)
 -  BeatBuddy: [Github Repo](https://github.com/connorgunter/music-playlist-app) | [Site](https://beatbuddy-7a9e4cc3fd5d.herokuapp.com/)
