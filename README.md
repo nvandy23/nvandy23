@@ -1,7 +1,4 @@
 
-### :fire: My Stats
-
-![Your stats](https://github-readme-stats.vercel.app/api?username=nvandy23&show_icons=true&theme=radical)
 
 
 Welcome to my profile! Feel free to stay awhile! I am a recent graduate of the software engineering immersive course through General Assembly.
@@ -27,6 +24,7 @@ I'm currently learning the newest technologies in the industy. You can follow my
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 
+![Your stats](https://github-readme-stats.vercel.app/api?username=nvandy23&show_icons=true&theme=radical)
 
 
 ## Recent projects:
