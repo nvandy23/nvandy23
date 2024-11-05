@@ -31,6 +31,7 @@ I'm currently learning the newest technologies in the industy. You can follow my
 -  Spooky Memory Match: [Github Repo](https://nvandy23.github.io/P1-Memory-Matcher-game/) | [Site](https://github.com/nvandy23/P1-Memory-Matcher-game)
 -  BeatBuddy: [Github Repo](https://github.com/connorgunter/music-playlist-app) | [Site](https://beatbuddy-7a9e4cc3fd5d.herokuapp.com/)
 -  StreamSeek: [Github Repo](https://github.com/nvandy23/StreamSeek-Capstone-Frontend) | [Site](https://stream-seek-capstone-frontend-pfpu-l603o6n9d.vercel.app/)
+-  Vandy BlackJack: [Github Repo](https://github.com/nvandy23/BlackJack-game) | [Site](https://vandyblackjack.netlify.app/)
 
 
 ## Hobbies:
