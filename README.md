@@ -38,7 +38,7 @@ I'm currently learning the newest technologies in the industy. You can follow my
 Kayaking, Running, Reading, and watching sports.
 
 ## What show I'm currently watching:
-Welcome to Wrexham. It's so good! 
+Dexter:Resurrection. So glad the franchise is back!
 
 ## Random fun fact of the month 
-Topaz is the traditional birthstone for November. The ancient Greeks believed that topaz could make people invisible.
+Australia is wider than the moon. The moon is 3400 km in diameter, while Australia’s diameter from east to west is almost 4000 km.
